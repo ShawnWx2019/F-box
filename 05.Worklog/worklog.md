@@ -1,19 +1,11 @@
----
-output: github_document
-css: style.css
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ------------------------------------------------------------------------
 
 ## Mon May,16 2022
 
 ### Assignment 01.
 
-<font color=green>**Issue:**</font> Low rsd for Thermol data, maybe caused by the outlier.
+<font color=green>**Issue:**</font> Low rsd for Thermol data, maybe
+caused by the outlier.
 
 <font color=green>**Method:**</font> Thermol remove outlier
 
