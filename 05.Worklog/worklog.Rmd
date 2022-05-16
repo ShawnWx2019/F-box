@@ -1,0 +1,26 @@
+---
+output: 
+   rmdformats::downcute:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    highlight: tango
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+## Mon May,16 2022
+
+### Assignment 01.
+
+<font color=green>**Issue:**</font> Low rsd for Thermol data, maybe caused by the outlier.
+
+<font color=green>**Method:**</font> Thermol remove outlier
+
+<font color=green>**Stat:**</font> 9-12 am.

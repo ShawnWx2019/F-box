@@ -1,0 +1,34 @@
+/* Whole document: */
+
+headers{
+  font-family: "Times New Roman",SimHei;
+  font-size: 13pt;
+  line-height: 37px;
+}
+
+
+body{
+  font-family: "Times New Roman",SimSun;
+  font-size: 13pt;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+
+/* Headers */
+h1{
+  font-family: Times New Roman,SimHei;
+  font-size: 24pt;
+  line-height: 37px;
+}
+
+h2{
+  font-family: Times New Roman,SimHei;
+  font-size: 22pt;
+  line-height: 35px;
+}
+
+h3,h4,h5,h6{
+  font-family: Times New Roman,SimHei;
+  font-size: 18pt;
+  line-height: 33px;
+}
