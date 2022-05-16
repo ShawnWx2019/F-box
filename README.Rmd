@@ -1,11 +1,15 @@
+---
+output: github_document
+bibliography: "PosDocProject.bib"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 # Title.
 
-[![R
-version](https://img.shields.io/badge/R-v4.1.1-salmon)](https://www.r-project.org)
-[![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
-![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue)
-[![DOI](https://img.shields.io/badge/DOI-doi:unpublished-purple)]()
+[![R version](https://img.shields.io/badge/R-v4.1.1-salmon)](https://www.r-project.org) [![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT) ![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue) [![DOI](https://img.shields.io/badge/DOI-doi:unpublished-purple)]()
 
 ------------------------------------------------------------------------
 
